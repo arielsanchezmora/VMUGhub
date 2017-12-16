@@ -1,7 +1,7 @@
 # VMUGhub
 An idea to discuss for 2018 - open for collaboration to all the vCommunity
 
-_Originally idea from @wildcard78, moved to Github so we can expand and ask for more comments_
+_Originally idea from  <a href="https://twitter.com/wildcard78" target="_blank"> @wildcard78</a>, moved to Github so we can expand and ask for more comments_
 
 We always speak about the importance of building a community first, and then letting *that* power the VMUG. The idea is that if attendees make valuable relationships with other attendees, they will come to VMUGs regardless of what the event is - because primarily they know they will be able to see their friends and connect in an enjoyable atmosphere.
 
