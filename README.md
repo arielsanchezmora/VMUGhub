@@ -1,13 +1,13 @@
 # VMUGhub
-An idea to discuss for 2018 - open for collaboration to all the vCommunity
+An idea to discuss for 2018 - open for collaboration to all in the vCommunity
 
 _Originally idea from  <a href="https://twitter.com/wildcard78" target="_blank"> @wildcard78</a>, moved to Github so we can expand and ask for more comments_
 
 We always speak about the importance of building a community first, and then letting *that* power the VMUG. The idea is that if attendees make valuable relationships with other attendees, they will come to VMUGs regardless of what the event is - because primarily they know they will be able to see their friends and connect in an enjoyable atmosphere.
 
-So far things like <a href="https://twitter.com/search?f=tweets&vertical=default&q=%23VMUGWB" target="_blank"> Whiteboard Mmeetings</a>  and <a href="https://vbrownbag.com/2017/09/in-support-of-vmworldhackathon-vmwarecode-and-carlcapozza-pghlittlehack/" target="_blank"> Little Hackathons</a>, <a href="https://twitter.com/search?f=tweets&q=%23vBeers" target="_blank"> vBeers</a> and food-centric meetups like <a href="http://www.vbrisket.com/" target="_blank"> #vBrisket</a>, <a href="https://twitter.com/search?f=tweets&q=%23vRamen" target="_blank"> #vRamen</a> and <a href="https://twitter.com/search?f=tweets&q=%23vCurry" target="_blank"> #vCurry</a> are great for fostering relationships and making people get to know each other. But how are we taking that to a next level and really helping each other?
+So far things like <a href="https://twitter.com/search?f=tweets&vertical=default&q=%23VMUGWB" target="_blank"> Whiteboard Meetings</a>  and <a href="https://vbrownbag.com/2017/09/in-support-of-vmworldhackathon-vmwarecode-and-carlcapozza-pghlittlehack/" target="_blank"> Little Hackathons</a>, <a href="https://twitter.com/search?f=tweets&q=%23vBeers" target="_blank"> vBeers</a> and food-centric meetups like <a href="http://www.vbrisket.com/" target="_blank"> #vBrisket</a>, <a href="https://twitter.com/search?f=tweets&q=%23vRamen" target="_blank"> #vRamen</a> and <a href="https://twitter.com/search?f=tweets&q=%23vCurry" target="_blank"> #vCurry</a> are great for fostering relationships and making people get to know each other. But how are we taking that to a next level and really helping each other?
 
-_(Yes, you should use your Twitter account to participate in the <a href="https://twitter.com/search?f=tweets&q=%23vCommunity" target="_blank"> #vCommunity</a>)_
+_(Yes, you need to use a Twitter account to fully participate in the <a href="https://twitter.com/search?f=tweets&q=%23vCommunity" target="_blank"> #vCommunity</a>)_
 
 Wouldn't it be great if your local VMUG was also a reliable connection hub for those looking for mentors, for certification test study groups, and job postings?
 
